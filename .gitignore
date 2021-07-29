@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/pos_android_studio_app/build/
+/pos_android_studio_app/build/intermediates/javac/debug/classes/
